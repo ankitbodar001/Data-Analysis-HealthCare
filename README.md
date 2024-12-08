@@ -1,7 +1,5 @@
 # Data-Analysis-HealthCare
 
-# Health Monitoring Analysis
-
 This project performs a comprehensive analysis of health monitoring data to uncover trends and insights into various health parameters such as heart rate, respiratory rate, and blood pressure. The analysis utilizes Python libraries and data visualization techniques to identify patterns and support health decision-making.
 
 ## Features
